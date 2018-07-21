@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><site>
+<feature id="com.ibm.websphere.wdt.st.v7" os="linux,win32,macosx" url="features/com.ibm.websphere.wdt.st.v7_17.0.4000.v20171214_0201.jar" version="17.0.4000.v20171214_0201">
+<category name="was4d"/>
+</feature>
+<feature id="com.ibm.websphere.wdt.st.v8" os="linux,win32,macosx" url="features/com.ibm.websphere.wdt.st.v8_17.0.4000.v20171214_0201.jar" version="17.0.4000.v20171214_0201">
+<category name="was4d"/>
+</feature>
+<feature id="com.ibm.websphere.wdt.st.v85" os="linux,win32,macosx" url="features/com.ibm.websphere.wdt.st.v85_17.0.4000.v20171214_0201.jar" version="17.0.4000.v20171214_0201">
+<category name="was4d"/>
+</feature>
+<feature id="com.ibm.websphere.wdt.st.v9" url="features/com.ibm.websphere.wdt.st.v9_17.0.4000.v20171214_0201.jar" version="17.0.4000.v20171214_0201">
+<category name="was4d"/>
+</feature>
+<feature id="com.ibm.osgi.wdt.feature" url="features/com.ibm.osgi.wdt.feature_17.0.4000.v20171214_0201.jar" version="17.0.4000.v20171214_0201">
+<category name="was4d"/>
+</feature>
+<feature id="com.ibm.websphere.wdt.server.tools.main" url="features/com.ibm.websphere.wdt.server.tools.main_17.0.4000.v20171214_0201.jar" version="17.0.4000.v20171214_0201">
+<category name="was4d"/>
+</feature>
+<feature id="com.ibm.ws.st.docker" url="features/com.ibm.ws.st.docker_17.0.4000.v20171214_0201.jar" version="17.0.4000.v20171214_0201">
+<category name="was4d"/>
+</feature>
+<feature id="com.ibm.wdt.webtools.top.feature" url="features/com.ibm.wdt.webtools.top.feature_17.0.4000.v20171214_0201.jar" version="17.0.4000.v20171214_0201">
+<category name="was4d"/>
+</feature>
+<feature id="com.ibm.wdt.ast.ws.tools.feature" url="features/com.ibm.wdt.ast.ws.tools.feature_17.0.4000.v20171214_0201.jar" version="17.0.4000.v20171214_0201">
+<category name="was4d"/>
+</feature>
+<category-def label="WebSphere® Application Server Developer Tools for Eclipse 17.0.0.4" name="was4d">
+<description>WebSphere® Application Server Developer Tools for Eclipse 17.0.0.4</description>
+</category-def>
+</site>
